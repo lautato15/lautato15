@@ -17,7 +17,6 @@ I'm a self-taught development student. I'm expanding my knowledge in both front-
 - *Outside of technology:* 💜 I'm a dancer from Campbellock ,🎵 I listen to music 🎮 I play video games, and 📖 I read novels.
 - 📫 Contact me at: lautato15@gmail.com
 
-- My skills include
 
 ## My Skills Include
 
