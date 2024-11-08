@@ -6,7 +6,7 @@
 
 <img  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJtb3dlOG5xMmNrb3g5OGsybzN4cGdpaDB0aTYyb2p6ZmlhOXA0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.webp" width="80px">&nbsp;
 
-I'm a self-taught development student. I'm expanding my knowledge in both front-end and back-end development, and I work as a software developer on various projects for private clients. I love learning and building something new, productive, innovative, and creative.
+I'm a self-taught development student. I'm expanding my knowledge in both front-end and back-end development, and I work  on some projects for private clients. I love learning and building something new, productive, innovative, and creative.
 
 - 🌱 I'm currently learning...
   -   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
