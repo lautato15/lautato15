@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="right" >
-  [![Gif](https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif)](https://giphy.com/gifs/11EcsZWIcV4q2I)
+  ![Gif](https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif)
 
 </div>
 <!--
